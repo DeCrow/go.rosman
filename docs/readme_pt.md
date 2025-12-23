@@ -248,4 +248,4 @@ Reinicia o dispositivo:
 
 Copyright (c) 2023 Denis Decrow
 
-A licença permite uso, cópia, modificação e distribuição desde que o autor original seja creditado. Veja o arquivo [LICENSE](LICENSE) para detalhes.
+A licença permite uso, cópia, modificação e distribuição desde que o autor original seja creditado. Veja o arquivo [LICENSE](/LICENSE) para detalhes.

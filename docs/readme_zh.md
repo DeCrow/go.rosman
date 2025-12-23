@@ -248,4 +248,4 @@ go.rosman/
 
 版权所有 (c) 2023 Denis Decrow
 
-该许可证允许使用、复制、修改和分发，前提是注明原作者。详见 [LICENSE](LICENSE) 文件。
+该许可证允许使用、复制、修改和分发，前提是注明原作者。详见 [LICENSE](/LICENSE) 文件。

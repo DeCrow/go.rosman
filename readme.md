@@ -248,4 +248,4 @@ Reboots the device:
 
 Copyright (c) 2023 Denis Decrow
 
-The license permits use, copying, modification and distribution provided the original author is credited. See [LICENSE](LICENSE) file for details.
+The license permits use, copying, modification and distribution provided the original author is credited. See [LICENSE](/LICENSE) file for details.

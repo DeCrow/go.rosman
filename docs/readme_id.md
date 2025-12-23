@@ -248,4 +248,4 @@ Me-reboot perangkat:
 
 Copyright (c) 2023 Denis Decrow
 
-Lisensi mengizinkan penggunaan, penyalinan, modifikasi, dan distribusi dengan syarat penulis asli disebutkan. Lihat file [LICENSE](LICENSE) untuk detail.
+Lisensi mengizinkan penggunaan, penyalinan, modifikasi, dan distribusi dengan syarat penulis asli disebutkan. Lihat file [LICENSE](/LICENSE) untuk detail.
