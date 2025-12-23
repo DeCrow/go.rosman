@@ -1,6 +1,6 @@
 # ROSMan - RouterOS Manager (MikroTik)
 
-[English version](readme.md) | [Русская версия](docs/readme_ru.md)  | [Español](docs/readme_es.md) | [Português](docs/readme_pt.md) | [Bahasa Indonesia](docs/readme_id.md) | [简体中文](docs/readme_zh.md)
+[English version](/readme.md) | [Русская версия](/docs/readme_ru.md)  | [Español](/docs/readme_es.md) | [Português](/docs/readme_pt.md) | [Bahasa Indonesia](/docs/readme_id.md) | [简体中文](/docs/readme_zh.md)
 
 Sistema automatizado de gerenciamento e backup de dispositivos MikroTik escrito em Go.
 
